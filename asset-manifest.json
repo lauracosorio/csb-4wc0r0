@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://lauracosorio.github.io/csb-4wc0r0/static/css/main.98ecb9bd.chunk.css",
+    "main.js": "https://lauracosorio.github.io/csb-4wc0r0/static/js/main.c5761c43.chunk.js",
+    "main.js.map": "https://lauracosorio.github.io/csb-4wc0r0/static/js/main.c5761c43.chunk.js.map",
+    "runtime-main.js": "https://lauracosorio.github.io/csb-4wc0r0/static/js/runtime-main.b31242a2.js",
+    "runtime-main.js.map": "https://lauracosorio.github.io/csb-4wc0r0/static/js/runtime-main.b31242a2.js.map",
+    "static/js/2.88f6ca09.chunk.js": "https://lauracosorio.github.io/csb-4wc0r0/static/js/2.88f6ca09.chunk.js",
+    "static/js/2.88f6ca09.chunk.js.map": "https://lauracosorio.github.io/csb-4wc0r0/static/js/2.88f6ca09.chunk.js.map",
+    "index.html": "https://lauracosorio.github.io/csb-4wc0r0/index.html",
+    "static/css/main.98ecb9bd.chunk.css.map": "https://lauracosorio.github.io/csb-4wc0r0/static/css/main.98ecb9bd.chunk.css.map",
+    "static/js/2.88f6ca09.chunk.js.LICENSE.txt": "https://lauracosorio.github.io/csb-4wc0r0/static/js/2.88f6ca09.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b31242a2.js",
+    "static/js/2.88f6ca09.chunk.js",
+    "static/css/main.98ecb9bd.chunk.css",
+    "static/js/main.c5761c43.chunk.js"
+  ]
+}
